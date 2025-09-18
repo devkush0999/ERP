@@ -11,10 +11,10 @@ const DrawerNavigator = () => {
     <Drawer.Navigator
       screenOptions={{
         headerStyle: {
-          backgroundColor: '#2c3e50',
+          backgroundColor: '#7d9ebeff',
         },
         headerTintColor: '#fff',
-        drawerActiveTintColor: '#2c3e50',
+        drawerActiveTintColor: '#3791ecff',
         drawerInactiveTintColor: 'gray',
       }}
     >
